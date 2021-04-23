@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Expense creator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GitHub Logo](/images/sample1.png)
+Format: ![Alt Text](url)
+
+![GitHub Logo](/images/sample2.png)
+Format: ![Alt Text](url)
 
 ## Available Scripts
 
