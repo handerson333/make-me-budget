@@ -1,10 +1,9 @@
 # Expense creator
-
+#### sample image
 ![GitHub Logo](/images/sample1.png)
-Format: ![Alt Text](url)
-
+#### sample image 2
 ![GitHub Logo](/images/sample2.png)
-Format: ![Alt Text](url)
+
 
 ## Available Scripts
 
